@@ -1,0 +1,14 @@
+.page-header{
+    font-family: 'Pacifico', cursive;
+}
+
+#detail-section {
+    background-image: url(../img/cover-learning.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+#detail-section h1{
+    font-family: 'Pacifico', arial;
+}
